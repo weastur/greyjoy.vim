@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: greyjoy.vim
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel
+    family-names: Sapezhka
+    email: me@weastur.com
+repository-code: 'https://github.com/weastur/greyjoy.vim'
+url: 'https://greyjoy.weastur.com'
+abstract: >-
+  5-color monochrome scheme for Vim
+keywords:
+  - vim
+  - colorscheme
+license: MIT

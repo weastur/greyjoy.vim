@@ -38,6 +38,11 @@ repos:
       - id: gitlint
         stages: [commit-msg]
 
+  - repo: https://github.com/Vimjas/vint
+    rev: v0.4a4
+    hooks:
+      - id: vint
+
   - repo: local
     hooks:
       - id: update-credits
